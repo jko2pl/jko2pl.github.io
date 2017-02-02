@@ -2,7 +2,7 @@
 layout: post
 title: "Happy New Year"
 date: 2016-01-01 16:25:06 -0700
-comments: false
+comments: true
 ---
 
 * Get it from [github](https://github.com/scotte/jekyll-clean).
